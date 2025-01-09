@@ -1,2 +1,2 @@
 # Lucky (Dudás) kocsma
-#ez a kocsma a flútásé
+# ez a kocsma a flútásé
