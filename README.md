@@ -3,6 +3,6 @@
 # Mulatási van
 ## EZAZ
 ### ezcsi
-_Ez a szöveg félkövér lesz_
+_Ez a szöveg dőlt lesz_
 *Ez a szöveg dőlt lesz*
-__Ez a szöveg meg milyen lesz?__
+__Ez a szöveg félkövér lesz__
